@@ -151,8 +151,7 @@ function stats(){
 
 
 function clean(){
-	echo "."
-	#tput cup 17 0 && tput ed
+	tput cup 17 0 && tput ed
 }
 
 function checking(){
@@ -261,5 +260,6 @@ function scanner(){
 }
 
 banner
+sample
 domain
 scanner
