@@ -1,5 +1,5 @@
 ## Screenshot:
-![2022-05-12-20:38:15.png](https://)
+![2022-05-12-20:38:15.png](https://raw.githubusercontent.com/halitAKAYDIN/LfiScan/main/2022-05-12-20%3A38%3A15.png)
 
 
 ## Description
