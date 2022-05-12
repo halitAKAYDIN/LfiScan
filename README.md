@@ -1,6 +1,5 @@
-## Screenshot:
-![2022-05-12-20:38:15.png](https://raw.githubusercontent.com/halitAKAYDIN/LfiScan/main/2022-05-12-20%3A38%3A15.png)
-
+## Video:
+[![2022-05-12-20:38:15.png](https://raw.githubusercontent.com/halitAKAYDIN/LfiScan/main/2022-05-12-20%3A38%3A15.png)](https://youtu.be/r-R5ot_tOQs "LFI Scanner")
 
 ## Description
 ```
