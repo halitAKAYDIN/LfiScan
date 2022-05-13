@@ -136,9 +136,7 @@ function domain() {
 		echo -e "[${green}*${reset}] [HST] ${green}$target${reset} code: $(curl -sL -w "%{http_code}\\n" "$target" -o /dev/null)"
 	  	echo -e "[${green}*${reset}] [RPT] Report Path: ${cyan}$temp$output${reset}\n"
 	else
-	  	echo -e "[${red}!${reset}] [URL] URL Does Not Exist: $target\n\n"
-		echo -e "[${green}?${reset}]"' [EXP] '${green}'./lfiscan.sh '${magenta}'-h'${reset}''
-		echo -e "[${green}?${reset}]"' [EXP] '${green}'./lfiscan.sh '${magenta}'-u '${yellow}'"http://example.com/index.php?page=" '${magenta}''
+	  	echo -e "[${red}!${reset}] [URL] URL Does Not Exist: $target\n"
 		exit
 	fi
 }
